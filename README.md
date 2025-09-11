@@ -88,8 +88,15 @@ GitHub Explore is a great place to do just that … explore :smile: You can find
 
 You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you interact with GitHub the more tailored your Explore view will be. 
 
-## 📝 Optional next steps 
+## 📝 Assignments / Tasks
 
+# Compulsory
+* Open a pull request which contains a Python script called your first name, eg <larry.py>. When this script is run, it should tell me something interesting about you. eg "I love anime" PS: Extra points for well-formatted output, etc
+
+# Advanced
+* Find any open-source project, try to read the code, identify what you think you know, what you find interesting and be ready to have a conversation about the code you read.
+
+# Optional
 * Open a pull request and let your teacher know that you’ve finished this course.  
 * Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
